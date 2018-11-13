@@ -23,8 +23,10 @@ time for an event.
   - STFC internal communication
   - Circulate via email
     - Technology
-    - Scientififc Computing
+    - Scientific Computing
     - Diamond
+    - IBEX
+    - FBS
   - Circulate via Slack
     - Graduates
     - Mantid
