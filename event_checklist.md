@@ -5,6 +5,7 @@ time for an event.
 
 ## Before event
 
+- Choose primary event organiser
 - Determine event and essential people involved in delivering event
 - Decide time and location
   - Based on availability of essential people and resources
@@ -14,7 +15,7 @@ time for an event.
   - Notify of desired room layout
   - Leave ~30 mins either side for room setup, catering delivery, etc.
 - Open Eventbrite registrations
-  - Ideally SEC organisers need access
+  - Ideally all SEC organisers need access
   - Specify if external visitors can attend (if held on campus)
 - Book catering
 - Advertising
